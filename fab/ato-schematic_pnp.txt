@@ -1,0 +1,59 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ato-schematic
+*Date=04:07:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;27.3465;-29.3796;180;Bottom;U2
+2;;;16.0021;-36.4915;0;Bottom;Via56
+3;;;45.466;-7.02753;0;Bottom;Via36
+4;;;38.8621;-13.6314;0;Bottom;Via50
+5;;THT;8.128;-46.7785;180;Bottom;Water Sensor
+6;;;38.8621;-21.2514;0;Bottom;Via47
+7;;;16.0021;-28.8714;0;Bottom;Via59
+8;;;38.8621;-38.7775;0;Bottom;Via40
+9;;;38.8621;-18.7114;0;Bottom;Via48
+10;220;THT;27.178;-46.3975;0;Bottom;R1
+11;;;38.8621;-46.6515;0;Bottom;Via37
+12;;TO92 [THT];46.1391;-45.572;90;Bottom;Q1
+13;;;16.0021;-46.6515;0;Bottom;Via52
+14;;;9.14401;-44.3655;0;Bottom;Via32
+15;;;16.0021;-31.4114;0;Bottom;Via58
+16;;;16.0021;-39.0315;0;Bottom;Via55
+17;;;45.466;-12.1075;0;Bottom;Via35
+18;;;38.8621;-33.9514;0;Bottom;Via42
+19;;;38.8621;-23.7914;0;Bottom;Via46
+20;;;16.0021;-44.1115;0;Bottom;Via53
+21;;;38.8621;-44.1115;0;Bottom;Via38
+22;;;16.0021;-26.3314;0;Bottom;Via60
+23;;;38.8621;-36.4915;0;Bottom;Via41
+24;;;16.0021;-23.7914;0;Bottom;Via61
+25;;;16.0021;-11.0914;0;Bottom;Via66
+26;;;38.8621;-11.0914;0;Bottom;Via51
+27;;THT;8.382;-9.44048;180;Bottom;12V In
+28;;;38.8621;-28.8714;0;Bottom;Via44
+29;;;16.0021;-16.1714;0;Bottom;Via64
+30;;;16.0021;-41.5715;0;Bottom;Via54
+31;;;9.39801;-7.02753;0;Bottom;Via34
+32;;;38.8621;-31.4114;0;Bottom;Via43
+33;;;9.14401;-49.4455;0;Bottom;Via31
+34;;;16.0021;-18.7114;0;Bottom;Via63
+35;;;38.8621;-41.5715;0;Bottom;Via39
+36;220;THT;27.178;-11.0915;0;Bottom;R2
+37;;;16.0021;-13.6314;0;Bottom;Via65
+38;;THT;46.482;-9.69448;0;Bottom;Water Relay
+39;;;38.8621;-16.1714;0;Bottom;Via49
+40;;;16.0021;-21.2514;0;Bottom;Via62
+41;;;9.39801;-12.1075;0;Bottom;Via33
+42;;;27.4705;-28.2691;0;Bottom;U1
+43;;;38.8621;-26.3314;0;Bottom;Via45
+44;;;16.0021;-33.9514;0;Bottom;Via57
